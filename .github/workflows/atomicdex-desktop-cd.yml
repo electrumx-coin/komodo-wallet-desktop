@@ -3,7 +3,7 @@ name: komodo-wallet-desktop CD releases
 on:
   push:
     branches:
-    - dev
+    - devs
 
 env:
   DEX_PROJECT_NAME: "komodo-wallet"
